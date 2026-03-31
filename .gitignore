@@ -1,0 +1,14 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Manim output
+media/
+
+# macOS
+.DS_Store
+
+# Editor
+.superpowers/
