@@ -13,6 +13,8 @@ Builds intuition for convolution from first principles using a cymbal analogy:
 - The total sound you hear is the convolution `y(t) = (x * h)(t)`
 - Visualised step-by-step: fix `x(τ)`, flip `h(τ)` → `h(−τ)`, slide and accumulate `y(t)`
 
+Read the full _Medium article_ here: [Convolution, Intuitively — What a Cymbal Can Teach You About Signal Processing](https://medium.com/@chiranthajk/convolution-intuitively-what-a-cymbal-can-teach-you-about-signal-processing-3834227859e4)
+
 ## Setup
 
 **Requirements**
